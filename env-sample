@@ -1,0 +1,4 @@
+pipenv shell
+DB_NAME=route
+DB_USER=postgres
+DB_HOST=localhost
