@@ -9,7 +9,7 @@ autopep8 = "*"
 
 [packages]
 Django = "==2.2.13"
-djangorestframework = "==3.9.4"
+djangorestframework = "==3.11.2"
 django-extensions = "==2.1.2"
 drf-yasg = "==1.17.0"
 psycopg2 = "==2.7.5"
