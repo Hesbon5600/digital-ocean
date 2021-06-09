@@ -8,7 +8,7 @@ pylint = "*"
 autopep8 = "*"
 
 [packages]
-Django = "==2.2.13"
+Django = "==2.2.22"
 djangorestframework = "==3.9.4"
 django-extensions = "==2.1.2"
 drf-yasg = "==1.17.0"
