@@ -13,7 +13,7 @@ djangorestframework = "==3.9.4"
 django-extensions = "==2.1.2"
 drf-yasg = "==1.17.0"
 psycopg2 = "==2.7.5"
-pyjwt = "==1.7.1"
+pyjwt = "==2.4.0"
 gunicorn = "*"
 
 [requires]
